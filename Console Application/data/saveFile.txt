@@ -1,0 +1,13 @@
+Elie's Books
+11
+The Godfather;Mario Puzo;9780399103421;600;2025;Recreational
+Automate The Boring Stuff With Python;Al Sweigart;9781593275990;444;2026;Educational
+Spud;John van de Ruit;9780143025955;480;2024;Recreational
+Programming: Principles and Practice Using C++;Bjarne Stroustrup;9780321992789;1216;2026;Educational
+Mechatronics: Principles and Applications;Godfrey C. Onwubolu;9780750663793;640;2026;Educational
+Applied Physics;Herman W. Pollack;13041350;647;2026;Educational
+Spud - The Madness Continues;John van de Ruit;9780141326818;352;2024;Recreational
+Spud - Learning To Fly;John van de Ruit;9780141336237;412;2024;Recreational
+Spud - Exit, Pursued by a Bear;John van de Ruit;9780141348278;432;2024;Recreational
+Things Fall Apart;Chinua Achebe;1234567890;320;2021;Recreational
+The English Patient;Michael Ondaatje;987654321;555;2022;Recreational
